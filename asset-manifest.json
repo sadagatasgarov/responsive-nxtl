@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/responsive-nxtl/static/js/main.dc07260b.chunk.js",
+    "main.js.map": "/responsive-nxtl/static/js/main.dc07260b.chunk.js.map",
+    "runtime-main.js": "/responsive-nxtl/static/js/runtime-main.6299a211.js",
+    "runtime-main.js.map": "/responsive-nxtl/static/js/runtime-main.6299a211.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/responsive-nxtl/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.db1f9da6.chunk.js": "/responsive-nxtl/static/js/2.db1f9da6.chunk.js",
+    "static/js/2.db1f9da6.chunk.js.map": "/responsive-nxtl/static/js/2.db1f9da6.chunk.js.map",
+    "static/js/3.149a9c68.chunk.js": "/responsive-nxtl/static/js/3.149a9c68.chunk.js",
+    "static/js/3.149a9c68.chunk.js.map": "/responsive-nxtl/static/js/3.149a9c68.chunk.js.map",
+    "index.html": "/responsive-nxtl/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/responsive-nxtl/static/css/2.20aa2d7b.chunk.css.map",
+    "static/js/2.db1f9da6.chunk.js.LICENSE.txt": "/responsive-nxtl/static/js/2.db1f9da6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6299a211.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.db1f9da6.chunk.js",
+    "static/js/main.dc07260b.chunk.js"
+  ]
+}
